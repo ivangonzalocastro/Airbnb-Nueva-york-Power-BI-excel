@@ -1,5 +1,5 @@
-![banner airbnb corregido](https://github.com/user-attachments/assets/f790388a-c0e9-40ed-b739-76477fe99ce0)
-
+# 🏙️ Airbnb New York — Análisis de Alojamientos con Excel & Power BI
+ _Normalización, modelado y visualización para entender precios, reputación y disponibilidad en NYC_
 ## 📌 Descripción General
 Este proyecto analiza miles de alojamientos de **Airbnb en Nueva York**, utilizando Excel para limpiar y normalizar el dataset original, y Power BI para modelar los datos, crear relaciones, desarrollar medidas en DAX y construir un dashboard interactivo orientado a la toma de decisiones.
 El objetivo fue responder preguntas sobre **precio, ubicación, reputación del alojamiento, flexibilidad del host y disponibilidad**, construyendo un análisis diagnóstico que ayuda a cualquier usuario de Airbnb a entender cómo varían los alojamientos según zona, tipo y calidad.
