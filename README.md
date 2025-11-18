@@ -4,6 +4,8 @@
 Este proyecto analiza miles de alojamientos de **Airbnb en Nueva York**, utilizando Excel para limpiar y normalizar el dataset original, y Power BI para modelar los datos, crear relaciones, desarrollar medidas en DAX y construir un dashboard interactivo orientado a la toma de decisiones.
 El objetivo fue responder preguntas sobre **precio, ubicación, reputación del alojamiento, flexibilidad del host y disponibilidad**, construyendo un análisis diagnóstico que ayuda a cualquier usuario de Airbnb a entender cómo varían los alojamientos según zona, tipo y calidad.
 
+<img width="909" height="440" alt="Portada" src="https://github.com/user-attachments/assets/899fa115-660a-4d96-b9e8-f094734e4dc3" />
+
 ## 🎯 Objetivos del Proyecto
 Identificar cómo varía el precio en función del **barrio**, el **tipo de habitación** y las **políticas del host**.
 Analizar la **calidad y reputación** de los alojamientos según puntuaciones, reviews y zonas.
