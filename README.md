@@ -4,16 +4,13 @@
 Este proyecto analiza miles de alojamientos de **Airbnb en Nueva York**, utilizando Excel para limpiar y normalizar el dataset original, y Power BI para modelar los datos, crear relaciones, desarrollar medidas en DAX y construir un dashboard interactivo orientado a la toma de decisiones.
 El objetivo fue responder preguntas sobre **precio, ubicación, reputación del alojamiento, flexibilidad del host y disponibilidad**, construyendo un análisis diagnóstico que ayuda a cualquier usuario de Airbnb a entender cómo varían los alojamientos según zona, tipo y calidad.
 
-<img width="909" height="440" alt="Portada" src="https://github.com/user-attachments/assets/899fa115-660a-4d96-b9e8-f094734e4dc3" />
+![Gif de la primer solapa](https://github.com/user-attachments/assets/398808e5-33e4-4052-9c8e-b9ee510abfe6)
 
 ## 🎯 Objetivos del Proyecto
 Identificar cómo varía el precio en función del **barrio**, el **tipo de habitación** y las **políticas del host**.
 Analizar la **calidad y reputación** de los alojamientos según puntuaciones, reviews y zonas.
 Comprender la disponibilidad anual, cantidad de noches mínimas y restricciones comunes.
 Crear visualizaciones interactivas para un usuario final sin conocimientos técnicos.
-
-![primer solapa (1)](https://github.com/user-attachments/assets/5ff3348b-16c1-4e48-b192-43ff82f6b1cb)
-
 
 ## 🧰 Herramientas & Habilidades Utilizadas
 ### 🔵 Excel
@@ -52,6 +49,9 @@ Diseñé un modelo basado en:
 Estas tablas se integraron en un esquema tipo estrella, optimizado para análisis de precios y reputación.
 
 ## 📈 Secciones del Dashboard
+
+<img width="909" height="440" alt="Portada" src="https://github.com/user-attachments/assets/899fa115-660a-4d96-b9e8-f094734e4dc3" />
+
 ### 1. Análisis por Barrio
 * Precio promedio por zona y barrio.
 * Disponibilidad anual y tipo de habitación predominante.
