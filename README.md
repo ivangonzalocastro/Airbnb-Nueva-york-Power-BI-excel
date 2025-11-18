@@ -1,23 +1,23 @@
-# Airbnb-Nueva-york-Power-BI-excel
+# 🏙️ Airbnb-Nueva-york-Power-BI-excel
 Normalización, modelado y visualización para entender precios, reputación y disponibilidad en NYC
 
-## Descripción General
+## 📌 Descripción General
 Este proyecto analiza miles de alojamientos de **Airbnb en Nueva York**, utilizando Excel para limpiar y normalizar el dataset original, y Power BI para modelar los datos, crear relaciones, desarrollar medidas en DAX y construir un dashboard interactivo orientado a la toma de decisiones.
 El objetivo fue responder preguntas sobre **precio, ubicación, reputación del alojamiento, flexibilidad del host y disponibilidad**, construyendo un análisis diagnóstico que ayuda a cualquier usuario de Airbnb a entender cómo varían los alojamientos según zona, tipo y calidad.
 
-## Objetivos del Proyecto
+## 🎯 Objetivos del Proyecto
 Identificar cómo varía el precio en función del **barrio**, el **tipo de habitación** y las **políticas del host**.
 Analizar la **calidad y reputación** de los alojamientos según puntuaciones, reviews y zonas.
 Comprender la disponibilidad anual, cantidad de noches mínimas y restricciones comunes.
 Crear visualizaciones interactivas para un usuario final sin conocimientos técnicos.
 
-## Herramientas & Habilidades Utilizadas
-### Excel
+## 🧰 Herramientas & Habilidades Utilizadas
+### 🔵 Excel
 * Normalización del dataset original.
 * Limpieza de valores y formatos.
 * Uso de **VLOOKUP** y **XLOOKUP** para unir tablas satélite (neighbourhoods, room types, cancellation policies, etc.).
 * Estandarización de columnas con fechas, tipos numéricos y textos.
-### Power BI
+### 🟡 Power BI
 * Modelado de datos mediante un Diagrama **Entidad–Relación** (tablas satélite + tabla fact TB_List).
 * Transformaciones avanzadas en Power Query: tipo de datos, remover errores, reemplazo de símbolos, filtrados, ordenamientos y limpieza profunda.
 * Creación de **medidas DAX** clave:
@@ -32,7 +32,12 @@ Tooltips personalizados (host verificado, puntuación, precio promedio).
 * Visuales usados:
 **mapas, barras, dispersión, tarjetas, tablas dinámicas, segmentadores, KPIs.**
 
-## Modelado (ERD)
+## 📊 Dataset
+* Fuente: Kaggle.com
+* Registros: Alojamientos de Airbnb en la ciudad de Nueva York.
+* Link al data set: [Airbnb_nuevayork](https://docs.google.com/spreadsheets/d/1DCwKbC_-ODi1DzJK33txmmQj5amzHJpT/edit?usp=share_link&ouid=108086124376765934119&rtpof=true&sd=true)
+
+## 🧩 Modelado (ERD)
 Diseñé un modelo basado en:
 * TB_List (tabla principal – alojamientos)
 * TB_Neighbourhood_Group
@@ -42,7 +47,7 @@ Diseñé un modelo basado en:
 * TB_Verified
 Estas tablas se integraron en un esquema tipo estrella, optimizado para análisis de precios y reputación.
 
-## Secciones del Dashboard
+## 📈 Secciones del Dashboard
 ### 1. Análisis por Barrio
 * Precio promedio por zona y barrio.
 * Disponibilidad anual y tipo de habitación predominante.
@@ -65,3 +70,6 @@ Estas tablas se integraron en un esquema tipo estrella, optimizado para análisi
 * La hipótesis inicial fue refutada: las zonas céntricas no son siempre las más caras. Ejemplo: Staten Island presenta uno de los promedios más altos.
 * No existe relación clara entre precio y puntuación del huésped.
 * La disponibilidad anual y la flexibilidad del host juegan un rol más fuerte en el precio que la mera proximidad al centro.
+
+## 📬 Contacto
+Podés encontrarme en [Mi Perfil de LinkedIn](www.linkedin.com/in/ivan-castro-gomez)
