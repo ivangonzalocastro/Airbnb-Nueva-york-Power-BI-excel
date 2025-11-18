@@ -1,5 +1,4 @@
-# 🏙️ Airbnb-Nueva-york-Power-BI-excel
-Normalización, modelado y visualización para entender precios, reputación y disponibilidad en NYC
+![banner airbnb corregido](https://github.com/user-attachments/assets/f790388a-c0e9-40ed-b739-76477fe99ce0)
 
 ## 📌 Descripción General
 Este proyecto analiza miles de alojamientos de **Airbnb en Nueva York**, utilizando Excel para limpiar y normalizar el dataset original, y Power BI para modelar los datos, crear relaciones, desarrollar medidas en DAX y construir un dashboard interactivo orientado a la toma de decisiones.
@@ -10,6 +9,9 @@ Identificar cómo varía el precio en función del **barrio**, el **tipo de habi
 Analizar la **calidad y reputación** de los alojamientos según puntuaciones, reviews y zonas.
 Comprender la disponibilidad anual, cantidad de noches mínimas y restricciones comunes.
 Crear visualizaciones interactivas para un usuario final sin conocimientos técnicos.
+
+![primer solapa (1)](https://github.com/user-attachments/assets/5ff3348b-16c1-4e48-b192-43ff82f6b1cb)
+
 
 ## 🧰 Herramientas & Habilidades Utilizadas
 ### 🔵 Excel
