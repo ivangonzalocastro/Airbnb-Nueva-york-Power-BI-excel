@@ -60,3 +60,8 @@ Estas tablas se integraron en un esquema tipo estrella, optimizado para análisi
 * Políticas de cancelación predominantes.
 * Porcentaje de hosts verificados por zona.
 <img width="1034" height="585" alt="Reglas de reserva y disponibilidad" src="https://github.com/user-attachments/assets/21dd9f37-5b60-41a7-8a8c-37c0643db871" />
+
+## Conclusiones Principales
+* La hipótesis inicial fue refutada: las zonas céntricas no son siempre las más caras. Ejemplo: Staten Island presenta uno de los promedios más altos.
+* No existe relación clara entre precio y puntuación del huésped.
+* La disponibilidad anual y la flexibilidad del host juegan un rol más fuerte en el precio que la mera proximidad al centro.
